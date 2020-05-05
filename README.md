@@ -1,4 +1,6 @@
-# Four card feature section
+# Four Card Feature Section
+
+![](/design/desktop-preview.jpg)
 
 My challenge was to build out this feature section and get it looking as close to the design as possible. I was able to use HTML and CSS to complete the challenge.
 
